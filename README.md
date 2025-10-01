@@ -10,6 +10,8 @@ The component displays a white card with rounded corners containing:
 - A bold title
 - Descriptive text below
 
+![Demo Image of QR Code Component](./Image/screenshot.png)
+
 ## Features
 
 - 🎨 Clean and modern UI
@@ -30,8 +32,10 @@ project-root/
 │
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
+├── README.md           # Project Documentation
 └── Image/
     └── qr-code.png     # QR code image
+    └── screenshot.png  # Screenshot Of QR code component
 ```
 
 ## Installation
@@ -42,7 +46,7 @@ project-root/
 
 ## Usage
 
-Simply open the `index.html` file in any modern web browser to view the component.
+Click the [Demo App Link](https://simple-static-qr-code-component.vercel.app/)
 
 ## Design Specifications
 
@@ -95,5 +99,3 @@ This project is a solution for a Frontend Mentor challenge, designed to help imp
 This project is open source and available for personal and educational use.
 
 ---
-
-**Note**: Make sure to replace the QR code image path if your folder structure differs from the one shown above.
